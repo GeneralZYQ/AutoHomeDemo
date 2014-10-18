@@ -44,4 +44,4 @@ I you have some advices, just let me know. Thanks :)
 
 You can see the capture of the screen following.
 <br>
-<img scr = "http://raw.githubusercontent.com/GeneralZYQ/AutoHomeDemo/master/AutoHomeDemo/autodemo.gif" alt = "caputre of the screen">
+<img src = "http://raw.githubusercontent.com/GeneralZYQ/AutoHomeDemo/master/AutoHomeDemo/autodemo.gif" alt = "caputre of the screen"/>
