@@ -44,4 +44,4 @@ I you have some advices, just let me know. Thanks :)
 
 You can see the capture of the screen following.
 <br>
-<img src = "http://raw.githubusercontent.com/GeneralZYQ/AutoHomeDemo/master/AutoHomeDemo/autodemo.gif"/>
+<img src = "http://fmn.rrimg.com/fmn066/20141018/2015/original_YG0f_15100000cd3f118c.gif"/>
