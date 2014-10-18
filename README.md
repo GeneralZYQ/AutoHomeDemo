@@ -43,5 +43,5 @@ I you have some advices, just let me know. Thanks :)
 
 
 You can see the capture of the screen following.
-
-<img scr = "https://raw.githubusercontent.com/GeneralZYQ/AutoHomeDemo/master/AutoHomeDemo/autodemo.gif" alt = "caputre of the screen"></img>
+<br>
+<img scr = "https://raw.githubusercontent.com/GeneralZYQ/AutoHomeDemo/master/AutoHomeDemo/autodemo.gif" alt = "caputre of the screen">
